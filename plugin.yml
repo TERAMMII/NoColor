@@ -1,0 +1,7 @@
+---
+name: NoColor
+version: 0.0.1
+main: TERAMI\NoColor\Main
+api: 4.9.0
+src-namespace-prefix: TERAMI\NoColor
+...
